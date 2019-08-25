@@ -1,0 +1,14 @@
+{
+    "websites": [
+        {
+            "name": "YeezySupply",
+            "initial_url": "https://yeezysupply.com/",
+            "live_url": "https://yeezysupply.com/"
+        },
+        {
+            "name": "GithubTest",
+            "initial_url": "https://github.com/docker/docker",
+            "live_url": "https://github.com/docker/docker"
+        }
+    ]
+}
